@@ -1,6 +1,8 @@
 NodeJS Vagrant Box
 ==================
 
+###UNDER ACTIVE DEVELOPMENT###
+
 Node.js Vagrant virtual machine for development only
 
 
